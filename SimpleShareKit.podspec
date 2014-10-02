@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name          = 'SimpleShareKit'
-  s.version       = '1.0.0'
+  s.version       = '0.0.1'
   s.platform      = :ios, '6.0'
   s.summary       = 'Based on ShareKit.'
   s.homepage      = 'https://github.com/trindade/SimpleShareKit'
